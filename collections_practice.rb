@@ -42,7 +42,7 @@ def add_s(array)
 
 each_with_index.collect do |item, index| 
   if index != 1 
-    item.inser(-1, "s")}
+    item.insert(-1, "s")}
   end 
 #array.each do |add_s|
    # add_s.insert(-1, "s") 
