@@ -48,7 +48,5 @@ array.each_with_index do |item, index|
   end 
 #array.each do |add_s|
    # add_s.insert(-1, "s") 
- 
-  
 end
 end
