@@ -47,6 +47,6 @@ array.each_with_index.collect do |item, index|
 #array.each do |add_s|
    # add_s.insert(-1, "s") 
  
-  #end 
-
+  
+end
 end
