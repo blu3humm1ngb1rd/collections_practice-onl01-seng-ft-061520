@@ -42,7 +42,7 @@ def add_s(array)
 
 array.each_with_index do |item, index| 
   if index != 1 
-    item.insert
+    item.insert(-1, "s")
   else 
     item 
   end 
